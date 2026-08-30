@@ -2,5 +2,10 @@
     {
         "gmail": "admin@example.com",
         "phone": "6289531639634"
+    },
+    {
+        "gmail": "admin@example.com",
+        "phone": "628975534154",
+        "product_id": 221511
     }
 ]
